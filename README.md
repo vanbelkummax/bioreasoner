@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="assets/bioreasoner_logo.png" alt="BioReasoner Logo" width="200"/>
 </p>
 
 <h1 align="center">BioReasoner</h1>
@@ -91,31 +92,37 @@ A multi-judge evaluation framework where:
 
 ## Polymath Corpus
 
-We are building a cross-domain knowledge base spanning **25+ theoretical domains**:
+> **[View Full Corpus Documentation →](docs/POLYMATH_CORPUS.md)**
+
+We are building an unprecedented cross-domain knowledge base spanning **35+ theoretical domains** and **15,294 papers**:
 
 <table>
 <tr>
 <td>
 
-**AI/ML Methods**
+**AI/ML Methods** (13 domains)
 - PEFT (LoRA, QLoRA, DoRA)
 - Preference Optimization (DPO, PPO, RLHF)
 - Quantization & Compression
 - Self-Play & Distillation
+- Evolution Strategies
+- Directed Evolution (Biology)
 
 </td>
 <td>
 
-**Theoretical Foundations**
-- Category Theory
-- Network Science
-- Information Theory
-- Complexity Science
+**Theoretical Foundations** (6 domains)
+- Category Theory (Spivak, Baez)
+- Network Science (Barabási, Alon)
+- Information Theory (Shannon)
+- Complexity Science (Kauffman)
+- Control Theory (Åström)
+- Causal Inference (Pearl)
 
 </td>
 <td>
 
-**Interdisciplinary**
+**Interdisciplinary Bridges** (8 domains)
 - Biosemiotics
 - Cognitive Analogy
 - Evolutionary Game Theory
