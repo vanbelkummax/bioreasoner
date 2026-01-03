@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/bioreasoner_logo.png" alt="BioReasoner Logo" width="200"/>
 </p>
 
 <h1 align="center">BioReasoner</h1>
